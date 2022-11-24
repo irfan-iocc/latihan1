@@ -5,3 +5,4 @@ type3
 type4
 type5
 type6
+type7
